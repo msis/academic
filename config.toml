@@ -1,16 +1,17 @@
-# baseurl = "https://people.csail.mit.edu/msis"
-baseurl = "http://localhost"
+baseurl = "https://people.csail.mit.edu/msis"
 title = "Mohamed Saad Ibn Seddik"
 copyright = "&copy; 2016 Mohamed Saad Ibn Seddik"
 languageCode = "en-us"
 theme = "academic"
 enableEmoji = true
 
+publishdir = "docs/"
+
 # Enable comments by entering your Disqus shortname
 # disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-87051821-2"
 
 
 [params]
@@ -66,9 +67,9 @@ googleAnalytics = ""
     link = "mailto:msis@csail.mit.edu"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "github"
     icon_pack = "fa"
-    link = "//twitter.com/msibnseddik"
+    link = "//github.com/msis"
 
   [[params.social]]
     icon = "linkedin"
@@ -76,14 +77,14 @@ googleAnalytics = ""
     link = "https://linkedin.com/in/msibnseddik/en"
 
   [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/msibnseddik"
+
+  [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.com/citations?user=iJmqGfcAAAAJ&hl=en"
-
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/msis"
 
 
 # Navigation Links
