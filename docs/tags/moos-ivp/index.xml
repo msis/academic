@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mohamed Saad Ibn Seddik</title>
-    <link>https://people.csail.mit.edu/msis/tags/moos-ivp/index.xml</link>
+    <link>https://msis.github.io/academic/tags/moos-ivp/index.xml</link>
     <description>Recent content on Mohamed Saad Ibn Seddik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Aquaticus</title>
-      <link>https://people.csail.mit.edu/msis/project/aquaticus/</link>
+      <link>https://msis.github.io/academic/project/aquaticus/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/msis/project/aquaticus/</guid>
+      <guid>https://msis.github.io/academic/project/aquaticus/</guid>
       <description></description>
     </item>
     
